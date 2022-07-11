@@ -16,7 +16,7 @@ namespace PersonParcer
        
         int position = -1;
         public ParserEnumerator(TextFieldParser textFieldParser) => this.textFieldParser = textFieldParser;
-
+        // sd
         public Person Current
         {
             get;
